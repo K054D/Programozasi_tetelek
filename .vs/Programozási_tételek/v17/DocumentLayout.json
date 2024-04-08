@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|d:\\k\u00F3sa d\u00E1niel 12.i\\c#\\programoz\u00E1si_t\u00E9telek\\jav_beill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|solutionrelative:jav_beill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\min_rendezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|solutionrelative:min_rendezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\javitott_bub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|solutionrelative:javitott_bub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\buborekos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|solutionrelative:buborekos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\egyszerucseres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|solutionrelative:egyszerucseres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\osszefuttatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E156B71-C88A-45E0-BDC9-74E7E18AD6B2}|Programoz\u00E1si_t\u00E9telek.csproj|solutionrelative:osszefuttatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jav_beill.cs",
+              "DocumentMoniker": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\jav_beill.cs",
+              "RelativeDocumentMoniker": "jav_beill.cs",
+              "ToolTip": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\jav_beill.cs",
+              "RelativeToolTip": "jav_beill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:26:36.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "min_rendezes.cs",
+              "DocumentMoniker": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\min_rendezes.cs",
+              "RelativeDocumentMoniker": "min_rendezes.cs",
+              "ToolTip": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\min_rendezes.cs",
+              "RelativeToolTip": "min_rendezes.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:20:23.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "javitott_bub.cs",
+              "DocumentMoniker": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\javitott_bub.cs",
+              "RelativeDocumentMoniker": "javitott_bub.cs",
+              "ToolTip": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\javitott_bub.cs",
+              "RelativeToolTip": "javitott_bub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:13:26.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "buborekos.cs",
+              "DocumentMoniker": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\buborekos.cs",
+              "RelativeDocumentMoniker": "buborekos.cs",
+              "ToolTip": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\buborekos.cs",
+              "RelativeToolTip": "buborekos.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:00:29.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "egyszerucseres.cs",
+              "DocumentMoniker": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\egyszerucseres.cs",
+              "RelativeDocumentMoniker": "egyszerucseres.cs",
+              "ToolTip": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\egyszerucseres.cs",
+              "RelativeToolTip": "egyszerucseres.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:49:17.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "osszefuttatas.cs",
+              "DocumentMoniker": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\osszefuttatas.cs",
+              "RelativeDocumentMoniker": "osszefuttatas.cs",
+              "ToolTip": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\osszefuttatas.cs",
+              "RelativeToolTip": "osszefuttatas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:58:54.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAUwE4BAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:07:02.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\K\u00F3sa D\u00E1niel 12.I\\C#\\Programoz\u00E1si_t\u00E9telek\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:07:02.696Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

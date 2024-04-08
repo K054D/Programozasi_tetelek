@@ -1,0 +1,30 @@
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\bin\Debug\Programozási_tételek.exe.config
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\bin\Debug\Programozási_tételek.exe
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\bin\Debug\Programozási_tételek.pdb
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.AssemblyReference.cache
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\obj\Debug\Programozási_tételek.Form1.resources
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\obj\Debug\Programozási_tételek.Properties.Resources.resources
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.GenerateResource.cache
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.CoreCompileInputs.cache
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\obj\Debug\Programozási_tételek.exe
+D:\Kósa Dániel 12.i\Programozási tételek\Programozási_tételek\obj\Debug\Programozási_tételek.pdb
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\bin\Debug\Programozási_tételek.exe.config
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\bin\Debug\Programozási_tételek.exe
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\bin\Debug\Programozási_tételek.pdb
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.AssemblyReference.cache
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\obj\Debug\Programozási_tételek.Form1.resources
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\obj\Debug\Programozási_tételek.Properties.Resources.resources
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.GenerateResource.cache
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.CoreCompileInputs.cache
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\obj\Debug\Programozási_tételek.exe
+D:\Kósa Dániel 12.I\C#\Programozási_tételek\obj\Debug\Programozási_tételek.pdb
+D:\Boronkay\2023-24 infó\Programozási_tételek\bin\Debug\Programozási_tételek.exe.config
+D:\Boronkay\2023-24 infó\Programozási_tételek\bin\Debug\Programozási_tételek.exe
+D:\Boronkay\2023-24 infó\Programozási_tételek\bin\Debug\Programozási_tételek.pdb
+D:\Boronkay\2023-24 infó\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.AssemblyReference.cache
+D:\Boronkay\2023-24 infó\Programozási_tételek\obj\Debug\Programozási_tételek.Form1.resources
+D:\Boronkay\2023-24 infó\Programozási_tételek\obj\Debug\Programozási_tételek.Properties.Resources.resources
+D:\Boronkay\2023-24 infó\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.GenerateResource.cache
+D:\Boronkay\2023-24 infó\Programozási_tételek\obj\Debug\Programozási_tételek.csproj.CoreCompileInputs.cache
+D:\Boronkay\2023-24 infó\Programozási_tételek\obj\Debug\Programozási_tételek.exe
+D:\Boronkay\2023-24 infó\Programozási_tételek\obj\Debug\Programozási_tételek.pdb
