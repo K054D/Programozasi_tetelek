@@ -61,6 +61,7 @@
     <Compile Include="kivalasztas.cs" />
     <Compile Include="kivalogatas.cs" />
     <Compile Include="lineariskereses.cs" />
+    <Compile Include="logaritmikus.cs" />
     <Compile Include="masolas.cs" />
     <Compile Include="maximumkivalasztas.cs" />
     <Compile Include="megszamolas.cs" />

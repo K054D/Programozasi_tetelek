@@ -234,7 +234,19 @@ namespace Programozási_tételek
         }
         private void lIneárisKeresésrendezettSorToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            
+        }
+        private void logaritmikusKeresésToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            logaritmikus Logaritmikus = new logaritmikus();
+            LabelLenyeg.Text = Logaritmikus.Lenyeg();
+            LabelKod.Text = Logaritmikus.Kod();
+            LabelFeladat.Text = Logaritmikus.Feladat();
+            TBInput1.Visible = true;
+            TBInput2.Visible = true;
+            takaro.Visible = false;
+            BtnMentes.Visible = false;
+            BtnEredmeny.Click += (sender2, e2) => Gombmuvelet(sender2, e2, "logaritmikus");
         }
         private void FajlInput_Click(object sender, EventArgs e)
         {
@@ -393,6 +405,14 @@ namespace Programozási_tételek
                     string[] bei_arr = TBInput1.Text.Split(',').ToArray();
                     int[] bei_int = Array.ConvertAll(bei_arr, Int32.Parse);
                     LabelEredmeny.Text = Jav_beill.Eredmeny(bei_int, bei_int.Length);
+                    BtnMentes.Visible = true;
+                    break;
+                case "logaritmikus":
+                    logaritmikus Logaritmikus = new logaritmikus();
+                    string[] log_arr = TBInput1.Text.Split(',').ToArray();
+                    int[] log_int = Array.ConvertAll(log_arr, Int32.Parse);
+                    int k = int.Parse(TBInput2.Text);
+                    LabelEredmeny.Text = Logaritmikus.Eredmeny(log_int, k).ToString();
                     BtnMentes.Visible = true;
                     break;
 

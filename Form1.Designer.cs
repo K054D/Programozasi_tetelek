@@ -265,6 +265,7 @@
             this.logaritmikusKeresésToolStripMenuItem.Name = "logaritmikusKeresésToolStripMenuItem";
             this.logaritmikusKeresésToolStripMenuItem.Size = new System.Drawing.Size(295, 22);
             this.logaritmikusKeresésToolStripMenuItem.Text = "Logaritmikus keresés";
+            this.logaritmikusKeresésToolStripMenuItem.Click += new System.EventHandler(this.logaritmikusKeresésToolStripMenuItem_Click);
             // 
             // LabelKod
             // 
